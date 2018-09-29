@@ -1,4 +1,4 @@
-# Msc-project
+# MSc Data Science project
 
 Birkbeck College - University of London
 Department of Computer Science and Information Systems
